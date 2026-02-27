@@ -1,16 +1,41 @@
-## Hi there 👋
+### 👋 Привет! Я Марго
+Живу в Москве.
 
-<!--
-**MargoUtropova/MargoUtropova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ex-HR Admin, сейчас погружаюсь в продуктовую аналитику.  
+Здесь учусь, экспериментирую с данными и собираю проекты.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Стек
+
+**Анализ данных:** Python (Pandas, NumPy), SQL (PostgreSQL), Jupyter Notebook, Statistics (A/B тесты)  
+**Визуализация:** Power BI, Matplotlib, Seaborn  
+**Инструменты:** Excel/Google Sheets, Git, работа с данными любой степени чистоты 😄
+
+---
+
+### 📂 Мои проекты
+
+Все проекты структурированы в отдельном [репозитории-портфолио](https://github.com/MargoUtropova/product_analitics_portfolio).  
+Основные направления:
+
+| Направление          | Чем наполнено                                                                 |
+|----------------------|--------------------------------------------------------------------------------|
+| **Анализ данных**    | Исследование данных, проверка гипотез, сегментация, когортный анализ, выводы. |
+| **Визуализация**     | Дашборды в Power BI, ключевые графики в Python.                               |
+| **SQL**              | Решения задач, подзапросы, оконные функции, оптимизация.                      |
+| **HR → Product**     | Кейсы на стыке бывшего опыта и аналитики.                                     |
+
+👉 **Смотреть проекты** → [Здесь] (https://github.com/MargoUtropova/product_analitics_portfolio)
+
+---
+
+### 📫 Как связаться
+
+[![Telegram](https://t.me/MargoUtro)
+[![Gmail](utro.margo@gmail.com)
+
+
+---
+
+*Открыта к предложениям, фидбеку и интересным задачам.*
