@@ -33,6 +33,9 @@ Ex-HR Admin, сейчас погружаюсь в продуктовую ана�
 #### EDA анализ и рекомендательная система на основе датасета фильмов Netflix
 📁 [Папка проекта](https://github.com/MargoUtropova/product_analitics_portfolio/tree/master/RecSys_Netflix)
 - [Смотреть код](https://github.com/MargoUtropova/product_analitics_portfolio/tree/master/RecSys_Netflix/notebooks)
+
+#### EDA анализ заболеваемости Хантавирусом
+📁 [Папка проекта](https://github.com/MargoUtropova/product_analitics_portfolio/tree/master/Hantavirus)
   
 #### 🐍 Решения задач с использованием разных библиотек - [здесь](https://github.com/MargoUtropova/python_solutions)
 
