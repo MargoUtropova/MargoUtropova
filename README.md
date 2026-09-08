@@ -63,6 +63,7 @@ Ex-HR Admin, сейчас погружаюсь в продуктовую ана�
 
 ### 🤖 Telegram-боты
 <!--
+
 #### 📡 Парсинг Telegram + PostgreSQL
 - Парсинг данных из Telegram-каналов (через pyrogram)
 - Работа с API Telegram
@@ -71,9 +72,15 @@ Ex-HR Admin, сейчас погружаюсь в продуктовую ана�
 
 📁 [Папка проекта с описанием](./product_analitics_portfolio/tg_parser)   
 
-Другие боты: --> 
+Другие боты: 
 * "Бот-читалка" имититация чтения электронной книги [тут](https://github.com/MargoUtropova/book_reading_bot). 
-* Бот-игра "Камень-ножницы-бумага" [тут](https://github.com/MargoUtropova/paper_stone_bot).
+* Бот-игра "Камень-ножницы-бумага" [тут](https://github.com/MargoUtropova/paper_stone_bot).--> 
+#### Бот для кредитных карт
+- Проверка будущих платежей
+- Просмотр данных по кредитным картам
+- Уведомление о предстоящем платеже
+- Пометка платежей как оплаченные
+📁 [Папка проекта с описанием](https://github.com/MargoUtropova/credit_bot)
 
 ---
 <!--
@@ -93,10 +100,10 @@ Ex-HR Admin, сейчас погружаюсь в продуктовую ана�
 
 | Категория | Технологии |
 |-----------|------------|
-| **Python** | Pandas, NumPy, Matplotlib, Seaborn, Plotly, Requests, BeautifulSoup, Selenium, Aiogram, Asuncio|
+| **Python** | Pandas, NumPy, Matplotlib, Seaborn, Plotly, Requests, BeautifulSoup, Selenium, Aiogram, Asyncio|
 | **SQL** | PostgreSQL, подзапросы, оконные функции, оптимизация |
 | **Базы данных** | PostgreSQL, SQLite, MySQL |
-| **Визуализация** | Power BI, Matplotlib, Seaborn, Excel |
+| **Визуализация** | Power BI, Matplotlib, Seaborn, Excel, Power Query |
 | **Боты и API** | Telegram API, Aiogram, Requests, Telethon, Pyrogram |
 | **Прочее** | Git, Jupyter Notebook, Google Colab |
 
