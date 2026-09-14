@@ -1,120 +1,120 @@
-### 👋 Привет! Меня зовут Марго.
-Живу в Москве.
-Ex-HR Admin, сейчас погружаюсь в продуктовую аналитику и **ищу работу**.  
-Люблю анализировать, искать закомерности и паттерны.
+# Марго Утропова
 
-Контакты: [Telegram](https://t.me/MargoUtro) [Gmail](utro.margo@gmail.com)  
-сертификаты об обучении на 
-[stepik.org](https://stepik.org/users/623565523/profile)
+### Junior Product Analyst
 
----
+**SQL · Python · Product Analytics · Статистика · Визуализация**
 
-### Стек
+Анализирую данные, исследую поведение пользователей и ищу ответы на бизнес- и продуктовые вопросы.
 
-**Анализ данных:** Python (Pandas, NumPy), SQL (PostgreSQL), Jupyter Notebook, Statistics (A/B тесты)  
-**Визуализация:** Power BI, Matplotlib, Seaborn  
-**Инструменты:** Excel/Google Sheets, Git, работа с данными любой степени чистоты 😄
+Мой предыдущий опыт в HR научил меня работать с запросами заказчиков, уточнять требования и находить практические решения. Сейчас применяю этот подход к аналитике и работе с данными.
 
 ---
 
-### 📂 Мои pet-проекты
+## Проекты
 
-### 🐍 Python
+### 📊 Cohort & RFM Analysis
+**PostgreSQL · SQL · Cohort Analysis · RFM · LTV**
 
-#### 📱 Telecom (Анализ оттока телеком-компании):
-📁 [Папка проекта](https://github.com/MargoUtropova/product_analitics_portfolio/tree/master/telecom) 
-- Исследование данных и очистка
-- Сегментация клиентов
-- ABC-EDA анализ
-- Проверка гипотез
-- [Смотреть код](https://github.com/MargoUtropova/product_analitics_portfolio/tree/master/telecom/notebooks) 
-- [Выводы и рекомендации](https://github.com/MargoUtropova/product_analitics_portfolio/tree/master/telecom/insights)
-- [Визуализации](https://github.com/MargoUtropova/product_analitics_portfolio/tree/master/telecom/visuals)
-#### EDA анализ и рекомендательная система на основе датасета фильмов Netflix
-📁 [Папка проекта](https://github.com/MargoUtropova/product_analitics_portfolio/tree/master/RecSys_Netflix)
-- [Смотреть код](https://github.com/MargoUtropova/product_analitics_portfolio/tree/master/RecSys_Netflix/notebooks)
+Анализ поведения клиентов аптечной сети.
 
-#### EDA анализ заболеваемости Хантавирусом
-📁 [Папка проекта](https://github.com/MargoUtropova/product_analitics_portfolio/tree/master/Hantavirus)
-  
-#### 🐍 Решения задач с использованием разных библиотек - [здесь](https://github.com/MargoUtropova/python_solutions)
+- когортный анализ и retention
+- LTV, ARPU, ARPPU
+- RFM-сегментация
+- анализ ценности клиентских сегментов
+
+**[Папка проекта](https://github.com/MargoUtropova/product_analitics_portfolio/tree/master/Cohort_RFM)**
 
 ---
 
-### 🗄 SQL
-<!--
-#### 📦 Nordwind (Когортный и RFM анализ)[https://github.com/MargoUtropova/product_analitics_portfolio/tree/master/Cohort_RFM]:
-- SQL-запросы для когортного и RFM анализа
-- Рассчет retention, LTV, среднего чека
-- Дашборды
+### 📉 Telecom Churn Analysis
+**Python · Pandas · Статистика · Сегментация**
 
-📁 [Папка проекта](./product_analitics_portfolio/nordwind)  
-📜 [SQL-код](./product_analitics_portfolio/nordwind/sql/)  
-📊 [Дашборды](./product_analitics_portfolio/nordwind/visuals/)  
-📝 [Выводы](./product_analitics_portfolio/nordwind/insights/) -->
-#### Когортный и RFM анализ
-📁 [Папка проекта](https://github.com/MargoUtropova/product_analitics_portfolio/tree/master/Cohort_RFM):
-- [SQL-запросы](https://github.com/MargoUtropova/product_analitics_portfolio/tree/master/Cohort_RFM/SQL_scripts)
-- Рассчет retention, LTV, среднего чека
-- Сегментирование клиентов по RFM-критериям (recency, frequency, monetary)
-- Дашборды
-#### 🗄 SQL Решения задач [здесь](https://github.com/MargoUtropova/sql_solutions) и [здесь](https://github.com/MargoUtropova/sql-advent-calendar-solutions)
----
+Исследование факторов, связанных с оттоком клиентов телеком-компании.
 
-### 🤖 Telegram-боты
-<!--
+- EDA и анализ поведения клиентов
+- сегментация
+- исследование churn
+- проверка гипотез
+- формулирование рекомендаций
 
-#### 📡 Парсинг Telegram + PostgreSQL
-- Парсинг данных из Telegram-каналов (через pyrogram)
-- Работа с API Telegram
-- Запись и хранение данных в БД PostgreSQL
-- Автоматический сбор и обновление информации
-
-📁 [Папка проекта с описанием](./product_analitics_portfolio/tg_parser)   
-
-Другие боты: 
-* "Бот-читалка" имититация чтения электронной книги [тут](https://github.com/MargoUtropova/book_reading_bot). 
-* Бот-игра "Камень-ножницы-бумага" [тут](https://github.com/MargoUtropova/paper_stone_bot).--> 
-#### Бот для кредитных карт
-- Проверка будущих платежей
-- Просмотр данных по кредитным картам
-- Уведомление о предстоящем платеже
-- Пометка платежей как оплаченные
-📁 [Папка проекта с описанием](https://github.com/MargoUtropova/credit_bot)
-
----
-<!--
-### 📊 Excel & Power BI
-
-#### 🧮 Excel-дашборды и отчеты
-- Обработка данных в Excel (сводные таблицы, формулы, макросы)
-- Готовые дашборды в Power BI
-- Визуализация ключевых метрик
-
-📁 [Папка с проектами](./product_analitics_portfolio/excel)  
-📊 [Power BI файлы и скриншоты](./product_analitics_portfolio/excel/powerbi)  -->
+**[Папа проекта](https://github.com/MargoUtropova/product_analitics_portfolio/tree/master/telecom)**
 
 ---
 
-## 🛠 Инструменты
+### 🤖 Credit Card Reminder Bot
+**Python · Aiogram · Telegram API · FSM**
 
-| Категория | Технологии |
-|-----------|------------|
-| **Python** | Pandas, NumPy, Matplotlib, Seaborn, Plotly, Requests, BeautifulSoup, Selenium, Aiogram, Asyncio|
-| **SQL** | PostgreSQL, подзапросы, оконные функции, оптимизация |
-| **Базы данных** | PostgreSQL, SQLite, MySQL |
-| **Визуализация** | Power BI, Matplotlib, Seaborn, Excel, Power Query |
-| **Боты и API** | Telegram API, Aiogram, Requests, Telethon, Pyrogram |
-| **Прочее** | Git, Jupyter Notebook, Google Colab |
+Telegram-бот, разработанный по техническому заданию заказчика.
 
----
+Основной фокус проекта:
 
-👉 **Смотреть проекты** → [Здесь](https://github.com/MargoUtropova/product_analitics_portfolio)
+- перевод требований заказчика в функциональность
+- итеративная разработка
+- доработка функций по обратной связи
+- проектирование пользовательских сценариев
+- улучшение пользовательского пути
+- обработка различных пользовательских сценариев и ошибок
 
----
-
-### 📫 Контакты: [Telegram](https://t.me/MargoUtro)  [Gmail](utro.margo@gmail.com)
+**[Папка проекта](https://github.com/MargoUtropova/credit_bot)**
 
 ---
 
-*Открыта к предложениям, фидбеку и интересным задачам.*
+### 🤖 Netflix Recommendation System
+**Python · Pandas · ML · Recommendation Systems**
+
+Мой первый проект в направлении **Machine Learning**.
+
+Построение системы рекомендаций фильмов на основе содержания и сходства объектов.
+
+- подготовка и обработка данных
+- работа с текстовыми признаками
+- построение признакового пространства
+- расчёт сходства объектов
+- формирование рекомендаций
+- знакомство с подходами Machine Learning
+
+Проект показывает мои первые шаги от классического анализа данных к **ML-задачам**.
+
+**[Папка проекта](https://github.com/MargoUtropova/product_analitics_portfolio/tree/master/RecSys_Netflix)**
+
+---
+
+## Другие проекты
+
+**[Hantavirus Data Analysis](https://github.com/MargoUtropova/product_analitics_portfolio/tree/master/Hantavirus)**  
+EDA и визуализация данных о заболеваемости.
+
+**SQL Practice**  
+Задачи на PostgreSQL: CTE, JOIN, оконные функции, подзапросы, агрегации.
+
+**Python Practice**  
+Практика Python и работа с различными задачами и библиотеками.
+
+---
+
+## Навыки
+
+**Продуктовая аналитика:**  
+Cohort Analysis · Retention · RFM · LTV · ARPU · ARPPU · Churn · Сегментация · A/B Testing
+
+**SQL:**  
+PostgreSQL · CTE · JOIN · Window Functions · Subqueries
+
+**Python:**  
+Pandas · NumPy · Matplotlib · Seaborn · Jupyter
+
+**ML:**  
+Основы Machine Learning · Recommendation Systems
+
+**Визуализация:**  
+Power BI · Excel · Python
+
+**Разработка:**  
+Git · Aiogram · Telegram Bot API
+
+---
+
+## Контакты
+ [**Telegram**](https://t.me/MargoUtro)
+ 
+ **Email:** utro.margo@gmail.com
