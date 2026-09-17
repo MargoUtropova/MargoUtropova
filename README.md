@@ -37,7 +37,7 @@
 - проверка гипотез
 - формулирование рекомендаций
 
-**[Папа проекта](https://github.com/MargoUtropova/product_analitics_portfolio/tree/master/telecom)**
+**[Папка проекта](https://github.com/MargoUtropova/product_analitics_portfolio/tree/master/telecom)**
 
 ---
 
