@@ -1,6 +1,6 @@
 # Марго Утропова
 
-### Junior Product Analyst
+### Product Analyst
 
 **SQL · Python · Product Analytics · Статистика · Визуализация**
 
